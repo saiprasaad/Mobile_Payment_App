@@ -1,0 +1,10 @@
+vicky,vicky,99,1234,Male
+somu,ambulu,9952981149,1234,Male
+vishaal,sai,984362626,1234,Male
+sundaraman,ram,9287377173,1234,Male
+subbu,sundar_1970,9840749608,1970,Male
+ponmani,vishaal,645463562,1234,Male
+ranjith,sanju,9840319539,1234,Female
+soundarya,rarun,8220090072,1234,Male
+saiprasaad,sai,8072868279,1234,Male
+rohith,rohith,9080268964,1234,Male
